@@ -6,7 +6,7 @@ metadata:
     argocd/app-name: testai-photo-generator-app-dev
     backstage.io/kubernetes-id: testai-photo-generator-app
     backstage.io/kubernetes-namespace: testai
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: url:https://github.com/janus-idp/backstage-showcase
     github.com/project-slug: keynote-demo/testai-photo-generator
     janus-idp.io/tekton-enabled: 'true'
   tags:
